@@ -26,3 +26,10 @@ export const callsToAction = [
     { name: "See Demo Booking", href: "#", icon: PlayCircleIcon },
     { name: "Contact Support", href: "#", icon: PhoneIcon }
 ]
+
+export const options = [
+    { name: "Flights", href: "#" },
+    { name: "Car Rentals", href: "#" },
+    { name: "Attractions", href: "#" },
+    { name: "Flight + Hotel", href: "#" }
+]
